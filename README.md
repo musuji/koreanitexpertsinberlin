@@ -3,11 +3,36 @@
 
 ## 맛집
 
-* 가게이름
-  * 스페이스 2개
-  * 위치
-  * 후기
-
+* Lucky Start
+  * 훠궈
+  * Friedrichstr 127
+* Zhou's Five
+  * 부페
+* Nazareth
+  * 팔라펠
+* Tian Fu
+  * 사천요리
+* Da jia Le
+  * 중식당
+* Beef Housr
+  * Kottbusser Damm 94
+* Lon-Men's Noddle house
+  * 완당, 돼지귀요리
+* 햄버거
+  * Grindhouse - Homemade Burfers
+  * Berlinburger International
+  * Kiez burger
+  * Schiler burger
+  * Kreuz burger
+* 학세
+  * 막스엔모리츠
+  * zum kleinmarkthalle
+  * zur Haxe
+* 보까로디바코
+  * 이탈리아 정찬
+* Gugelhof
+* Bochart
+* Rutz
 
 ## 여행
 

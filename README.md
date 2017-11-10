@@ -16,6 +16,7 @@
   * 중식당
 * Beef Housr
   * Kottbusser Damm 94
+  * 우육면
 * Lon-Men's Noddle house
   * 완당, 돼지귀요리
 * 햄버거
